@@ -1,2 +1,2 @@
-# android-course
-安卓限选课作业
+# course-design
+课程设计包们
