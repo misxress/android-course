@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/compression.dir/bmp.cpp.o CMakeFiles/compression.dir/lzw.cpp.o CMakeFiles/compression.dir/txt.cpp.o CMakeFiles/compression.dir/test.cpp.o  -o compression 
